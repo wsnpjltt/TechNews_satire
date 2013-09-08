@@ -1,0 +1,302 @@
+/*1359522340,173213213*/
+
+.timelinePageLikedPagesLabel{border-color:#e9e9e9;border-style:solid;border-width:0 0 1px 0;padding-bottom:8px}
+.fbPrivacyWidget .UIPrivacyTargetedWidget .uiSelectorButton .customimg{margin:0 2px 0 -2px}
+.fbPrivacyWidget .UIPrivacyTargetedWidget .uiSelectorButton.uiButtonNoText .customimg{margin-right:-5px}
+.fbPrivacyWidget .uiSelectorButton .customimg{margin:2px -4px 2px -1px}
+.uiNumberGiant{font-family:arial, helvetica}
+.fbBoostedPost{outline:none}
+.uiPopover.selected .uiPopoverButton.fbBoostedPostPopoverButton.uiButtonSuppressed{border-bottom-color:#3b5998}
+.fbBoostedPostPopoverButton.uiPopoverTriggerElem{display:inline-block}
+.fbBoostedPostPopoverButton .uiButtonText{color:#3b5998;font-weight:normal}
+.fbBoostedPostPopoverButton:hover .uiButtonText{color:#333}
+.openToggler .fbBoostedPostPopoverButton:hover .uiButtonText{color:#fff}
+.promotedPostFlyoutContainer{background-color:#fff;border:1px solid #777;border-bottom:2px solid #293e6a;width:340px;position:relative;top:-1px}
+.promotedPostFlyoutContainer.discountedFlyout{width:450px}
+.uiContextualLayerAboveLeft .promotedPostFlyoutContainer,
+.uiContextualLayerAboveRight .promotedPostFlyoutContainer{border-bottom:1px solid #293e6a;top:1px}
+.promotedPostFlyoutFooter{padding:6px 7px 6px 8px}
+.promotedPostFlyoutContainer .moreOptionsLink{display:block}
+.editBudget .budgetEditDescriptionString{float:left;margin-right:6px}
+.editBudget .budgetValue{display:none}
+.editBudgetButton{margin-top:-4px}
+.promotedPostUpsellHeader{padding:15px}
+.insightsBar{margin:15px -12px -12px 0}
+.insightsBar .reachStats{display:inline-block;padding:4px 0}
+.insightsBar .promotionUnavailableLink{text-decoration:none;visibility:hidden}
+.insightsBar:hover .promotionUnavailableLink{visibility:visible}
+.uiComposerAttachment .attachmentLink{outline:none}
+.uiComposerAttachment .attachmentLink:focus{text-decoration:underline}
+.uiComposerAttachment .selected,
+.uiComposerAttachmentSelected .normal{display:none}
+.uiComposerAttachmentSelected .selected{display:inline-block}
+.uiComposerAttachment .nub{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yw/x/PfBgtiydy5U.gif) no-repeat center top;height:7px;left:2px;position:absolute;top:18px;width:11px}
+.uiMetaComposer .uiComposerAttachment .nub{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yv/x/ALnh3ly4npU.gif);left:4px;top:19px}
+span.uiComposerAttachment{color:#333;display:inline-block}
+.uiComposerAttachments{padding:7px 0 8px;position:relative;z-index:2}
+.uiComposerOpen .uiComposerAttachments{padding-bottom:10px}
+.uiComposerMetaContainer{background-color:#fff;border:1px solid #b4bbcd;position:relative;z-index:1}
+.uiMetaComposer .uiComposerMetaContainer .attachmentFrame{border:0}
+.uiMetaComposer.uiComposerWhiteMessageBox .child_was_focused{border:none}
+.uiMetaComposerMessageBox{zoom:1}
+.uiComposerHideMessageBox .uiMetaComposerMessageBox{display:none}
+.uiComposerWhiteMessageBox .uiComposerMessageBox{background-color:#fff;border-width:0;padding:0}
+.uiMetaComposerMessageBoxTable{border-spacing:0;table-layout:fixed;width:100%}
+.uiMetaComposerMessageBoxTable td{padding:0;vertical-align:top;word-wrap:break-word}
+.uiMetaComposerMessageBoxTable .attachmentBottomRow{height:0}
+.uiMetaComposerMessageBoxTable .attachmentBottomRow td{vertical-align:bottom}
+.uiMetaComposerMessageBox .inputContainer{background-color:#fff;zoom:1}
+.uiComposerHideInput .uiMetaComposerMessageBoxTable{display:none}
+.uiMetaComposerMessageBox .uiComposerMessageBoxControls{margin:0}
+.uiMetaComposerMessageBox .uiComposerMessageBoxMentions .inputContainer{border:none;padding:0;position:relative;zoom:1}
+.uiMetaComposerMessageBox .uiComposerMention .inputContainer{z-index:2}
+.uiMetaComposerMessageBoxShelf{background-color:#f2f2f2;border-top:1px solid #e6e6e6}
+.uiMetaComposerMessageBox .composerTypeahead{border:0}
+.uiMetaComposerMessageBox .composerTypeahead .wrap{padding:5px !important;border:0}
+.uiMetaComposerMessageBox .uiMentionsInput .highlighter{font-size:13px;left:1px;top:1px}
+.uiMetaComposerMessageBox .uiMentionsInput .highlighter .metadataFragment{color:gray}
+.uiMetaComposerMessageBox .uiMentionsInput .highlighter .withToken, .uiMetaComposerMessageBox .uiMentionsInput .highlighter .timeToken, .uiMetaComposerMessageBox .uiMentionsInput .highlighter .placeToken{z-index:2;position:relative}
+.uiMetaComposerMessageBox .uiMentionsInput .highlighter .withToken{cursor:pointer;color:#3b5998}
+.uiMetaComposerMessageBox .uiMentionsInput .highlighter .withToken:hover{text-decoration:underline}
+.uiMetaComposerMessageBox .input{background:transparent;border-width:0;font-size:13px;height:17px;margin:0;outline:none;padding:0;resize:none;vertical-align:bottom;width:100%}
+.child_was_focused .uiMetaComposerMessageBox .input{min-height:48px}
+.child_was_focused .uiMetaComposerMessageBox .inputContainer{min-height:58px}
+.uiMetaComposerMessageBox .composerTypeahead .uiStickyPlaceholderInput{width:100%}
+div.uiMetaComposerMessageBox .composerTypeahead .placeholder{font-size:13px;padding:0}
+.uiMetaComposerMessageBox .attachmentMetaArea{position:relative}
+.uiMetaComposerMessageBox .textBlurb label{font-weight:normal;vertical-align:baseline}
+.uiMetaComposerMessageBox .textBlurb input{vertical-align:middle}
+.uiMetaComposerMessageBox .uiComposerTagControls{border-right:1px solid #e0e0e0;display:inline-block;float:left;height:30px}
+.uiMetaComposerMessageBox .uiComposerTagControls:hover{background-color:#e9e9e9}
+.uiMetaComposerMessageBox .attachmentBarArea .uiComposerTagControlOpen{background-color:#fafafa;border-top:1px solid #f2f2f2;margin-top:-1px}
+.uiMetaComposerMessageBox .uiComposerBarRightArea{margin:4px}
+.uiMetaComposerMessageBox .submitBtn{padding:2px 16px}
+.uiMetaComposerMessageBox .fakePrivacyWidget, .uiMetaComposerMessageBox .fakePrivacyWidget:active, .uiMetaComposerMessageBox .fakePrivacyWidget:focus, .uiMetaComposerMessageBox .fakePrivacyWidget:hover{border-color:transparent;margin:2px 6px;padding:0}
+.uiMetaComposerMessageBox .fakePrivacyWidget .uiButtonText{font-weight:normal;color:gray}
+.uiMetaComposer .ComposerCitySharer, .uiMetaComposer .ComposerMusicSharer{color:gray;line-height:30px;position:relative}
+.uiMetaComposer .friendsTokenizer, .uiMetaComposer .taggerLocationSharer{border:0;border-top:1px dashed #bdc7d8;padding:0}
+div div.uiFriendsTokenizerTypeaheadView{width:300px}
+.uiMetaComposer .friendsTokenizer .tokenarea{padding-left:2px}
+.uiMetaComposer .attachmentBottomArea .inputtext{border:none;min-width:160px;outline:none}
+.uiMetaComposer .friendsTokenizer .uiTypeaheadDisabled{display:none}
+.uiMetaComposer .taggerLocationSharer .wrap{border:0}
+.uiMetaComposer .taggerLocationSharer .uiStickyPlaceholderInput{width:100%}
+.uiMetaComposerMessageBox .cameraIcon{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yS/x/IlaTLjCiKAH.png);background-repeat:no-repeat;background-size:auto;background-position:-232px -96px;width:29px}
+.uiMetaComposerMessageBox .cameraIconSelected{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yS/x/IlaTLjCiKAH.png);background-repeat:no-repeat;background-size:auto;background-position:-202px -96px;width:29px}
+.uiMetaComposerMessageBox .friendTaggerIcon{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yS/x/IlaTLjCiKAH.png);background-repeat:no-repeat;background-size:auto;background-position:-172px -96px;width:29px}
+.uiMetaComposerMessageBox .friendTaggerIconSelected{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yS/x/IlaTLjCiKAH.png);background-repeat:no-repeat;background-size:auto;background-position:-142px -96px;width:29px}
+.uiMetaComposerMessageBox .placeTaggerIcon{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yS/x/IlaTLjCiKAH.png);background-repeat:no-repeat;background-size:auto;background-position:-112px -96px;width:29px}
+.uiMetaComposerMessageBox .placeTaggerIconSelected{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yS/x/IlaTLjCiKAH.png);background-repeat:no-repeat;background-size:auto;background-position:-82px -96px;width:29px}
+.threadRow .snippet{max-width:430px;overflow:hidden;position:absolute;text-overflow:ellipsis;white-space:nowrap}
+.threadRow .snippet .indicator, #fbMessagesItemList .snippet .indicator{vertical-align:middle}
+#admin_panel{background:#fff;border:1px solid #c4cde0;border-top:none;padding-top:7px;padding-bottom:5px;position:relative;width:809px;z-index:5}
+#admin_panel .uiHeaderPage{padding-bottom:6px}
+.admin_panel_loading{text-align:center}
+.admin_panel_loading .img{margin-top:180px}
+#admin_panel .uiHeaderSection{background:#f2f2f2;border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:5px 10px}
+#admin_panel .uiHeaderTitle{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#admin_panel .uiSideNavCountInline{background-color:#f03d25;border:1px solid #c0311e;color:#fff;font-size:9px;line-height:normal;padding:0 2px}
+.adminPanelModule{display:inline-block;vertical-align:top}
+#admin_panel_body{height:430px;margin-top:10px;overflow:hidden}
+.adminPanelNotifColumn{width:539px}
+.adminPanelLikesColumn{width:226px}
+.adminPanelInsightsColumn{width:312px}
+.adminPanelMessagesColumn, #admin_panel #AdminTip{width:269px}
+.adminPanelBorderRight{border-right:1px solid #ccc}
+.adminPanelContentTall{height:205px}
+.adminPanelContent, #admin_panel .AdminTipContent{height:164px}
+.adminPanelBlankStateImage{margin:24px 15px 33px;height:84px;width:84px}
+#admin_panel .AdminTipImageWrap{height:141px;padding-top:24px;width:115px;text-align:center}
+.adminPanelBlankStateText, #admin_panel .AdminTipBody{padding:22px 10px 5px 0}
+.adminPanelVisibilityButtonGroup{vertical-align:bottom}
+.adminPanelVisibilityButtonGroup .counter{padding:0 1px;margin-top:3px}
+#admin-panel-insights-graph{padding:4px 4px 0}
+#admin-panel-insights-graph .graph-canvas{width:304px;height:141px;margin:0}
+#admin-panel-insights-graph .graph-legend{position:relative;height:20px}
+#admin-panel-insights-graph:hover{cursor:pointer}
+#admin_panel_messages .adminPanelContent{overflow:hidden}
+.adminPanelList li{cursor:pointer;border-bottom:1px solid #e9e9e9;padding:0}
+.adminPanelList li.jewelItemNew{background:rgb(237, 239, 245, .98);background-color:#eeeff4;border-bottom:1px solid #d1d8e7}
+.adminPanelList li.jewelItemNew:hover{background-color:#e7ebf2;border-color:#d1d8e7}
+#admin_panel_notifications .notif_x_div, #admin_panel_notifications .confirmingMsg{display:none}
+.adminPanelList li a{color:#333;display:block;padding:4px 5px 4px 10px;text-decoration:none}
+.adminPanelList li:hover, .adminPanelList li:active, .adminPanelList li:focus{background-color:#f4f6f9;border-color:#e3e8f0;outline:none;text-decoration:none}
+.adminPanelList .notif_block .img{height:32px;margin-right:8px;width:32px}
+.adminPanelList .author, .adminPanelList .preview, .adminPanelList .info div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.adminPanelList .author, #admin_panel_notifications .blueName{color:#000;font-weight:bold}
+#admin_panel_messages .subject{color:#333}
+#admin_panel_messages .time, #admin_panel_notifications .timestamp{color:#9d9d9d;font-size:11px;padding-top:0}
+#admin_panel_messages .snippet{width:210px}
+#admin_panel_messages .snippet .indicator{vertical-align:middle}
+#admin_panel_notifications .info .img{display:none}
+.timelinePageMostRecentLabel{border-color:#e9e9e9;border-style:solid;border-width:0 0 1px 0;padding-bottom:8px}
+.timelineUnitContainer div.profile-pagelet-section{margin-bottom:0}
+ul.pageMostRecentPostList > li{border-color:#e9e9e9;margin:0 5px;padding:7px 0 1px 0}
+.timelineUnitContainer .pageMostRecentPostList{margin-bottom:0}
+.pageMostRecentPostList .uiStreamStory .mainWrapper{margin:0;padding-top:0}
+.fbTimelineUnit .pageMostRecentPostList .uiStreamStory .mainWrapper{padding-top:0}
+.pageMostRecentPostList .uiStreamStory .actorPhoto{margin-top:0;margin-bottom:0;padding-top:0}
+.pageMostRecentPostList .pageOneLine .messageBody{overflow:hidden;max-width:300px;text-overflow:ellipsis;white-space:nowrap;display:block}
+.pageMostRecentPostList .storyContent .storyInnerContent{margin-left:45px}
+.pageMostRecentPostList li:hover{background:#edeff4;border-radius:2px;border-top-color:#edeff4;cursor:pointer;margin:0 0 -1px 0;padding:5px 5px 6px 5px;position:relative;z-index:1}
+.pageMostRecentPostList .uiStreamStory .uiStreamHide{margin-top:0;margin-right:15px}
+.pageMostRecentPostList .uiStreamMessage .actorDescription{padding:0}
+.pageMostRecentPostList .uiStreamStory .recentStoryText{margin:2px 0}
+.pageMostRecentPostList .uiStreamStory .tlPageStoryAttachment{margin-bottom:-2px}
+.pageMostRecentPostList .uiBlingBox, .pageMostRecentPostList .uiBlingBox:hover{border-bottom:0}
+.fbTimelineUnit .timelineUnitContainer .pageMostRecentPostList .uiStreamStory .storyInnerContent{margin-left:39px}
+#AdminTip .adminTipFriendList li{border-bottom:1px solid #f2f2f2;padding:4px 5px 4px 10px;text-decoration:none}
+#AdminTip .adminTipFriendList .name{margin:8px 0}
+#AdminTip .adminTipFriendList .button{margin:2px 0}
+#AdminTip .adminTipFriendList .hideButton{margin:6px 4px}
+#AdminTip .adminTipFriendList li.yellow{background:#fff9d7}
+.fbTimelineBoxCount{background-color:#e7eaf2;color:#6d84b4;display:inline-block;font-size:24px;font-weight:bold;height:61px;line-height:61px;text-align:center;text-decoration:none;text-indent:-3px;vertical-align:middle;width:61px}
+.fbTimelineBoxHighCountFriends{font-size:19px}
+.fbTimelineBoxSuperHighCountFriends{font-size:16px}
+.fbTimelineBoxSummarizedCountFriends{font-size:13px}
+.fbTimelineOneColumn .fbTimelineBoxCountFriends,
+.fbTimelineOneColumn .fbTimelineBoxHighCountFriends,
+.fbTimelineOneColumn .fbTimelineBoxSuperHighCountFriends,
+.fbTimelineOneColumn .fbTimelineBoxSummarizedCountFriends{width:79px;height:79px;line-height:79px}
+.fbTimelineOneColumn .fbTimelineBoxCountFriends{font-size:28px}
+.fbTimelineOneColumn .fbTimelineBoxHighCountFriends{font-size:24px}
+.fbTimelineOneColumn .fbTimelineBoxSuperHighCountFriends{font-size:22px}
+.fbTimelineOneColumn .fbTimelineBoxSummarizedCountFriends{font-size:20px}
+.fbTimelineBoxCountPosts,
+.fbTimelineBoxHighCountPosts,
+.fbTimelineBoxSuperHighCountPosts,
+.fbTimelineBoxSummarizedCountPosts{width:64px;height:64px;line-height:64px}
+.fbTimelineBoxCountPosts{font-size:30px}
+.fbTimelineBoxHighCountPosts{font-size:26px}
+.fbTimelineBoxSuperHighCountPosts{font-size:20px}
+.fbTimelineBoxSummarizedCountPosts{font-size:14px}
+.fbTimelineBoxCountCheckinlarge,
+.fbTimelineBoxHighCountCheckinlarge,
+.fbTimelineBoxSuperHighCountCheckinlarge,
+.fbTimelineBoxSummarizedCountCheckinlarge{width:70px;height:70px;line-height:70px}
+.fbTimelineBoxCountCheckinlarge{font-size:30px}
+.fbTimelineBoxHighCountCheckinlarge{font-size:28px}
+.fbTimelineBoxSuperHighCountCheckinlarge{font-size:24px}
+.fbTimelineBoxSummarizedCountCheckinlarge{font-size:22px}
+.fbTimelineBoxCountCheckin,
+.fbTimelineBoxHighCountCheckin,
+.fbTimelineBoxSuperHighCountCheckin,
+.fbTimelineBoxSummarizedCountCheckin{width:54px;height:54px;line-height:54px}
+.fbTimelineBoxCountCheckin{font-size:26px}
+.fbTimelineBoxHighCountCheckin{font-size:24px}
+.fbTimelineBoxSuperHighCountCheckin{font-size:22px}
+.fbTimelineBoxSummarizedCountCheckin{font-size:20px}
+.fbTimelineBoxCountPostsdouble,
+.fbTimelineBoxHighCountPostsdouble,
+.fbTimelineBoxSuperHighCountPostsdouble,
+.fbTimelineBoxSummarizedCountPostsdouble{width:85px;height:85px;line-height:85px}
+.fbTimelineBoxCountPostsdouble{font-size:36px}
+.fbTimelineBoxHighCountPostsdouble{font-size:34px}
+.fbTimelineBoxSuperHighCountPostsdouble{font-size:28px}
+.fbTimelineBoxSummarizedCountPostsdouble{font-size:22px}
+.fbTimelineBoxCount:first-letter{font-size:.9em;vertical-align:2px}
+.fbTimelineBoxCountPagefriendsummary,
+.fbTimelineBoxHighCountPagefriendsummary,
+.fbTimelineBoxSuperHighCountPagefriendsummary,
+.fbTimelineBoxSummarizedCountPagefriendsummary{height:37px;line-height:36px;text-indent:0;width:37px}
+.fbTimelineBoxCountPagefriendsummary{font-size:18px}
+.fbTimelineBoxHighCountPagefriendsummary{font-size:16px}
+.fbTimelineBoxSuperHighCountPagefriendsummary{font-size:14px}
+.fbTimelineBoxSummarizedCountPagefriendsummary{font-size:12px}
+.pageFriendSummaryContainer .headerDigit{float:left;font-size:30px;color:#3b5998;margin-right:6px}
+.pageFriendSummaryContainer .headerText{line-height:1.2;padding-top:5px}
+.fbTimelineCapsule div.pageFriendSummaryContainer{padding-top:10px}
+.pageFriendSummaryContainer .header{border-bottom:1px solid #e5e5e5;padding-bottom:2px}
+.fbPageFriendSummaryFacepile .bigPic{height:75px;width:75px}
+.fbPageFriendSummaryFacepile .smallPic{height:37px;width:37px}
+.fbPageFriendSummaryFacepile .pic{display:block;float:left}
+.fbPageFriendSummaryFacepile .innerPic{padding-right:1px}
+.fbPageFriendSummaryFacepile.onlyFacepile{padding-top:3px}
+.fbPageFriendSummarySection.needsBorder{border-bottom:1px solid #e5e5e5;padding-bottom:3px}
+.fbPageFriendSummarySection .friendMusicReport{margin-top:3px}
+.fbPageFriendSummarySection .friendMusicReport .topSongs{border-top:1px solid #e5e5e5}
+.fbPageFriendSummarySection .friendMusicReport .topSongs .topSongsContent{padding:0}
+.pagesTimelineButtonPagelet{background-color:#e7ebf2;border-bottom:1px solid #c8d1e2;min-width:122px;padding:13px 0 12px 1px;top:38px;z-index:4}
+.fbTimelineWideRightCol .pagesTimelineButtonPagelet{min-width:244px}
+body.hasVoiceBar .pagesTimelineButtonPagelet{top:64px}
+.pagesTimelineRightColumn .fbTimelineScrubber{top:87px}
+body.hasVoiceBar .pagesTimelineRightColumn .fbTimelineScrubber{top:113px}
+#createPageButton .img{top:3px}
+#createPageButton{padding-left:6px}
+#pagesTimelineChatButtonPagelet{padding-left:85px}
+.fbTimelineFilters{padding-bottom:1px;position:relative;text-align:center}
+.fbTimelineFilters #fbTimelinePagesFilterSelectorButton{border-radius:4px;border:1px solid #c3cce0;background:#e8ecf2 url(http://static.ak.fbcdn.net/rsrc.php/v2/yv/x/ZWvAgFWgfHn.png) no-repeat right 9px;color:#c3cce0;padding-right:19px}
+.fbTimelineFilters .openToggler #fbTimelinePagesFilterSelectorButton{border:1px solid #3b5998;border-bottom:1px solid #777;background:#6d84b4 url(http://static.ak.fbcdn.net/rsrc.php/v2/yp/x/gfx8S-0T_FA.png) no-repeat right 10px;border-bottom-left-radius:0;border-bottom-right-radius:0;padding-right:19px}
+.fbTimelineFilters #fbTimelinePagesFilterSelectorButton .uiButtonText{color:#a1a1c1;font-weight:normal;padding:2px}
+.fbTimelineFilters .openToggler #fbTimelinePagesFilterSelectorButton .uiButtonText{color:#fff;font-weight:normal;padding:2px}
+.fbTimelineFilters .uiSelectorMenuWrapper{text-align:left}
+.-cx-PRIVATE-scrollableTypeahead__ScrollableTypeaheadArea{border:0;margin-top:1px;overflow:hidden}
+.-cx-PRIVATE-scrollableTypeahead__hasResults{border:1px solid #000;border-bottom:2px solid #2e396d}
+.-cx-PRIVATE-scrollableTypeahead__ScrollableTypeaheadArea .uiScrollableAreaContent ul{border:0}
+.-cx-PRIVATE-scrollableTypeahead__ScrollableTypeaheadArea.contentAfter::after{background-color:#fff}
+.graphTooltip{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yi/x/uVR6w3wRHEJ.gif) left bottom no-repeat;bottom:100%;display:block;padding:0 0 4px;position:absolute;z-index:200}
+.graphTooltipText{background-color:#282828;color:#fff !important;display:block;font-size:11px;line-height:14px;padding:4px 8px;text-align:left}
+.insights-graph-header{font-weight:bold;margin-top:10px;margin-bottom:10px}
+.graph-toggles{height:20px}
+.insights-section .graph-toggles.ufb-list_horizontal > li.ufb-list-item{border-width:0 0 0 0}
+.insights-graphs-half-width .graph-canvas{width:360px;height:200px}
+.insights-graphs-full-width{margin-bottom:20px}
+.insights-graphs-full-width .graph-canvas{width:100%;height:250px}
+.insights-graphs-full-width .graph-legend .legendLabel{padding-right:10px;white-space:nowrap}
+.insights-users-likes-graph .graph-canvas,
+.insights-users-follows-graph .graph-canvas{height:200px;width:460px}
+.graph-canvas{margin:10px 0}
+.graph-canvas .tickLabel{white-space:nowrap}
+.fbTimelineBackdatedComposerFlyout .fbTimelineBackdatedComposerAttachments{padding:0}
+.fbTimelineBackdatedComposerFlyout .uiComposerOpen .uiComposerAttachments,
+.fbTimelineBackdatedComposer .composerAudienceSelector .uiButtonText{display:none !important}
+.fbTimelineBackdatedComposerFlyout .uiComposerOpen .uiComposerMetaContainer{border:0}
+.fbTimelineBackdatedComposer .composerAudienceSelector .uiSelectorButton .customimg{margin-right:-3px}
+.fbTimelineBackdatedComposerAttachments .attachmentLoader{border-left:0;padding-right:10px}
+.fbTimelineBackdatedComposer .attachmentLifeEvents .typesMenuSelected{margin-right:-40px}
+.AdminTipContent{overflow:hidden}
+.AdminTipBody{overflow:hidden}
+.AdminTipImageWrap{display:inline-block;float:left}
+.-cx-PRIVATE-abovePageTimeline__unpublished a{color:#dd3c10}
+.-cx-PRIVATE-abovePageTimeline__unpublished img{margin:0 8px}
+.pagesTimelinePinpost .pagesPinpostImage{position:absolute;right:12px;top:-4px}
+.pagesTimelinePinpost .fbTimelineCurationControl{top:23px}
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .leftPageHead,
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .rightPageHead{width:199px;background-color:#f1f1f1}
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .rightPageCount,
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .rightPageHead{border-left:1px solid #e5e5e5}
+.timelinePagesInsightsTopDouble.timelinePagesInsightsDouble{border-top:none;margin-top:-12px}
+.timelinePagesInsightsDouble{border-top:1px solid #e5e5e5;margin:2px -14px -2px -15px}
+.timelinePagesInsightsDouble table{border-collapse:collapse}
+.timelinePagesInsightsDouble table td{vertical-align:top}
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .pageNumTitle{padding:5px 12px;color:#333}
+.timelinePagesInsightsDouble .bigNumber{margin-left:10px;margin-top:10px}
+.timelinePagesInsightsSingle .bigNumber{margin-left:-5px;margin-bottom:5px}
+.timelinePagesInsightsReport .bigNumber{color:#6278ae;font-family:Helvetica, Arial, sans-serif}
+.timelineUnitContainer .bigNumber,
+.timelineUnitContainer .ogProfileNumberUnits{color:#6374b1}
+.timelineUnitContainer .bigNumber,
+.timelineUnitContainer .ogProfileNumberUnits .quantity .quantityNumber{color:#6374b1;font-size:40px;line-height:1em}
+.timelineUnitContainer .ogProfileNumberUnits,
+.timelineUnitContainer .ogProfileNumberUnits .quantity{color:#6374b1;font-size:25px;margin-left:3px}
+.profile .app_tab{position:relative;zoom:1;overflow:hidden}
+.pagelet_app_runner_centered{text-align:center}
+.sp_6d2r3u{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/y-/x/yghAH2L_-gS.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:16px;width:16px}
+.sx_f9eabc{background-position:-16px 0}
+.selected .sx_f9eabc{background-position:0 0}
+.sx_af149f{background-position:-16px -17px}
+.selected .sx_af149f{background-position:0 -17px}
+.sx_285309{width:6px;height:12px;background-position:-17px -51px}
+.sx_476701{width:6px;height:12px;background-position:-24px -51px}
+.sx_3b24ea{background-position:0 -34px}
+.sx_297ec4{background-position:0 -51px}
+.sx_bbb7f8{height:15px;background-position:0 -170px}
+.sx_325a2a{width:15px;background-position:-17px -34px}
+.sx_947d61{background-position:0 -68px}
+.sx_fb5052{background-position:0 -85px}
+.sx_08422c{background-position:0 -102px}
+.sx_80ef3a{background-position:0 -119px}
+.sx_d37db9{background-position:0 -136px}
+.sx_6df115{background-position:0 -153px}
+
+#bootloader_dSvqJ { height: 42px; }

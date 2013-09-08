@@ -1,0 +1,12 @@
+/*1359522340,173220389*/
+
+.boostedPostTip .storyBox{background-color:#f2f2f2;border-color:#e0e0e0;border-style:solid;border-width:1px;margin:10px}
+.boostedPostTip .snippet{height:30px;overflow:hidden;text-overflow:ellipsis}
+.boostedPostTip .description{color:gray;margin:15px 10px 10px;width:250px}
+.boostedPostTip .leftrightlevel{margin:5px 10px}
+.boostedPostTip .pageLink{font-weight:bold;margin-top:4px}
+.pagesJoinedFacebookUnit{text-align:center}
+.pagesJoinedFacebookUnit .joinedTitle{font-size:18px}
+.fbTimelineCapsule li.anchorUnit:last-child{background:#e7ebf2;margin-bottom:-15px;padding-bottom:15px}
+
+#bootloader_ITjOU { height: 42px; }
